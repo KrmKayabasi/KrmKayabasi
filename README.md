@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm KrmKayabasi! 👋
 
-<!--
-**KrmKayabasi/KrmKayabasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** at [Istanbul Technical University](https://www.itu.edu.tr/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Passionate about technology, software engineering, and web development.
+- Always eager to learn and explore new fields in computer science.
+- Open to collaborating on academic, open-source, and personal projects.
+
+---
+
+## 🛠️ Skills
+
+- Programming Languages: Python, JavaScript, C ...
+- Technologies/Frameworks: React, Node.js, Transformers ...
+- Areas of Interest: Artificial Intelligence, Web Development ...
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+
+---
+
+*“Striving for progress, not perfection.”*
+
